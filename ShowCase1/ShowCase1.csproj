@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<!-- 
+  <ItemGroup>
+    <Reference Include="MySql.Data" Version="8.0.33">
+      <HintPath>D:\Uni_programming\Uni_CSharp\Project\Sorting\MySql.Data.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+  </ItemGroup> -->
+  
+  <ItemGroup>
+    <ProjectReference Include="..\SortLibrary\SortLibrary.csproj" />
+    <ProjectReference Include="..\MySqlConn\MySqlConn.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
