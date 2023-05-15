@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ShowTest1/1.0.0": {
+        "dependencies": {
+          "SortLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ShowTest1.dll": {}
+        }
+      },
+      "SortLibrary/1.0.0": {
+        "runtime": {
+          "SortLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShowTest1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

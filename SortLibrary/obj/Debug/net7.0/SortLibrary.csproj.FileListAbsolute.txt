@@ -1,0 +1,12 @@
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\SortLibrary.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\SortLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\SortLibrary.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\SortLibrary.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\SortLibrary.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\bin\Debug\net7.0\SortLibrary.deps.json
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\bin\Debug\net7.0\SortLibrary.dll
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\bin\Debug\net7.0\SortLibrary.pdb
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\SortLibrary.dll
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\refint\SortLibrary.dll
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\SortLibrary.pdb
+D:\Uni_programming\Uni_CSharp\Project\Sorting\SortLibrary\obj\Debug\net7.0\ref\SortLibrary.dll
